@@ -1,0 +1,14 @@
+name = "BRAF Insignias";
+author = "BRAF Team";
+logo = "";
+logoOver = "";
+tooltip    = "braf_insignias";
+tooltipOwned = "braf_insignias";
+picture = "";
+actionName = "GitHub";
+action = "https://github.com/valmojr/armatak";
+overview = "ARMATAK Addons is Full Stack Project to handle Arma 3 Sessions as real loc entities on TAK Clients";
+hideName = 0;
+hidePicture    = 0;
+dlcColor[] = { 0.23, 0.39, 0.30, 1 };
+logoSmall    = "";
